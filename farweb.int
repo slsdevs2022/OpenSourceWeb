@@ -2,10 +2,11 @@
 /*
 MAP_ZOOM: 1.000
 LAST_COMPILE_TIME: 1648172807
+DIR: config zone6 
 AUTO_FILE_DIR: ON
 MAP_ICON_TYPE: 0
 LAST_COMPILE_VERSION: 514.1583
-WINDOW: farweb.dme;_auxtools.dm
-FILE: farweb.dme
+WINDOW: farweb.dme;_auxtools.dm;__zone6.dm;zone6\includes.dm
+FILE: _auxtools.dm
 */
 // END_INTERNALS

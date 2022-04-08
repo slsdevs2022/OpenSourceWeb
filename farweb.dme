@@ -213,6 +213,7 @@
 #define DEBUG
 // END_PREFERENCES
 // BEGIN_INCLUDE
+#include "__zone6.dm"
 #include "_auxtools.dm"
 #include "code\_def_church.dm"
 #include "code\_def_gamemodes.dm"
@@ -1882,4 +1883,5 @@
 #include "interface\interface.dm"
 #include "interface\skin.dmf"
 #include "maps\new\goldenriver-low.dmm"
+#include "zone6\includes.dm"
 // END_INCLUDE
